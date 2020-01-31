@@ -3,7 +3,7 @@
 
 All of the tools use tkinter 
 
-The main UI contains all of the projects mentioned below. This program is designed to easily record and edit videos easily 
+The main UI contains all of the projects mentioned below. This program is designed to easily record and edit videos  
 
 main UI features
 - screen + video recorder\ video recording \ screen recorder\ screencasting
