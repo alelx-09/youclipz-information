@@ -15,7 +15,7 @@ Video editor (still under development)
 - (30) imagemagick filters\ speed up or slow down video \ timeline editing 
 
 3d rendering using python/povray
-- using pthon as the user can easily create unique 3d animations  similar to the video below 
+- using pthon as the user can easily create unique 3d animations  similar to the video in the link 
 https://youtu.be/ao-jKXu_s0M
 
 2d animation tool using python and turtle
