@@ -9,6 +9,8 @@ main UI features
 - screen + video recorder\ video recording \ screen recorder\ screencasting
 -YouTube upload\ edit youtube banner\ edit youtube profile picture
 
+![](main-ui.PNG)
+
 
 Video editor (still under development)
 - trim video\ merge videos\ extract audio\ extract video\ transition effects
